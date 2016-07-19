@@ -1,8 +1,8 @@
-package controller
+package Controller
 
 import (
     "github.com/gorilla/mux"
-    "finance-go/common/model"
+    "finance-go/Common/Model"
 )
 
 func NewRouter() *mux.Router {
@@ -19,32 +19,32 @@ func NewRouter() *mux.Router {
 
 var root = "/api/users"
 
-var routes = model.Routes {
-    model.Route {
+var routes = Model.Routes {
+    Model.Route {
         "GetUser",
         "GET",
         root + "/{username}",
         GetUser,
     },
-    model.Route {
+    Model.Route {
         "AddUser",
         "POST",
         root,
         AddUser,
     },
-    model.Route {
+    Model.Route {
         "DeleteUser",
         "DELETE",
         root + "/{username}",
         DeleteUser,
     },
-    model.Route {
+    Model.Route {
         "Login",
         "POST",
         root + "/login",
         Login,
     },
-    model.Route {
+    Model.Route {
         "Logout",
         "POST",
         root + "/logout",
