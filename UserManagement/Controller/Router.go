@@ -2,7 +2,7 @@ package Controller
 
 import (
     "github.com/gorilla/mux"
-    "finance-go/Common/Model"
+    "FinanceGo/Common/Model"
 )
 
 func NewRouter() *mux.Router {
