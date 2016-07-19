@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;finance-go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../old_stuff" />
+      <root url="file://$PROJECT_DIR$/../btcgoapi" />
+      <root url="file://$PROJECT_DIR$/../.DS_Store" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/debber/debber-v0.3/.git" />
+      <root url="file://$PROJECT_DIR$/../btcgoapi/btcgoapi/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btcgoapi_1/btcgoapi/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/gorilla/mux/.git" />
+      <root url="file://$PROJECT_DIR$/../btcgoapi/btcgoapi/.idea" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btc_go/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/laher/argo/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/gopkg.in/mgo.v2/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/laher/argo/ar/testdata" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/gorilla/sessions/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/laher/goxc/config/testdata" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btc_git_1.6/.idea" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btc_go/btc_users/.idea" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/debber/debber-v0.3/deb/testdata" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/gorilla/securecookie/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btcgoapi/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/cross-compile/golang-crosscompile/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btcgoapi/.idea" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/laher/goxc/testdata" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/debber/debber-v0.3/targz/testdata" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/sendgrid/smtpapi-go/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/btc_git_shared_1/.idea" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/sendgrid/sendgrid-go/.git" />
+      <root url="file://$PROJECT_DIR$/../old_stuff/github.com/laher/goxc/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../btcgoapi/.idea" />
+    </excluded>
+  </library>
+</component>
